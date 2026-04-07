@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+__pycache__/
+.venv/
+env/
+
+# Ignore secrets 
+.env
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
