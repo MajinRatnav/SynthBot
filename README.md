@@ -2,7 +2,7 @@
 
 **SynthBot** is a high-performance, full-stack AI application that allows users to interact with advanced language models to analyze documents and images. Built with a sleek, cyberpunk-inspired aesthetic, it features a real-time streaming interface and a robust backend with automated model failover.
 
-🚀 **[Live Demo](https://synth-bot-eight.vercel.app/)**
+🚀 **[Live Demo](https://synth-bot-eight.vercel.app/)**( the first reply may take a while since its deployed on render free tier, usually takes 10 seconds to wake up) 
 
 ---
 
